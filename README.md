@@ -1,4 +1,4 @@
-# Dead By Daylight Generator Distribution
+# Dead By Daylight Generator Distribution - 2022
 
 ## Introduction
 Tired of your teammates hiding in the edges of the map, looting the basement, and doing anything but generators? Are you stuck in ELO hell?
